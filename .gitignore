@@ -57,7 +57,17 @@ ENV/
 *.swo
 *~
 
-# Large data files (optional - uncomment if files are too large)
-# *.xlsx
-# *.mov
-# *.avi
+# Sensitive experimental data files
+*.csv
+*.xlsx
+*.xls
+
+# Large media files  
+*.mov
+*.avi
+*.mp4
+
+# Backup and temporary data files
+*backup*
+*temp*
+*tmp*
