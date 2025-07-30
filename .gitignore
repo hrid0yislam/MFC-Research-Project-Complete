@@ -62,10 +62,21 @@ ENV/
 *.xlsx
 *.xls
 
+# Sensitive visual content
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+
 # Large media files  
 *.mov
 *.avi
 *.mp4
+*.mkv
+*.webm
 
 # Backup and temporary data files
 *backup*
