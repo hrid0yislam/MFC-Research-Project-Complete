@@ -82,3 +82,24 @@ ENV/
 *backup*
 *temp*
 *tmp*
+
+# Report files and documentation with sensitive data
+*report*
+*Report*
+*REPORT*
+*.tex
+*.pdf
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Generated analysis plots and graphs
+*analysis*
+*summary*
+*comparison*
+*evolution*
+*efficiency*
