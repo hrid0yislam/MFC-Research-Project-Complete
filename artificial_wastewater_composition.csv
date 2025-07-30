@@ -1,0 +1,10 @@
+Component,Amount per Litre,Purpose
+Sodium acetate,3.0 g,Carbon source
+Glucose,1.0 g,Simulates lactose/milk sugar
+Peptone (or casein hydrolysate),0.5 g,Protein source (biodegradable N & organics)
+NH_Cl,0.5 g,Nitrogen source
+KH_PO_,0.1 g,"Phosphorus source, buffering"
+MgCl_á6H_O,0.05 g,Cofactor for microbial enzymes
+CaCl_á2H_O,0.05 g,buffering
+KCl,0.05Ð0.1 g,Electrolyte (for ionic strength)
+FeSO_á7H_O,2 mg,Trace metal
